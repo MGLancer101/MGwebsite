@@ -4,5 +4,7 @@
 MGwebsite</title>
 </head>
 <body>
-Cool website #2</body>
+Cool website #2
+<img src="">
+</body>
 </html>
